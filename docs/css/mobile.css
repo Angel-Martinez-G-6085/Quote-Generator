@@ -1,0 +1,9 @@
+@media (max-width: 500px){
+    .quote-container{
+        margin: auto 10px;
+    }
+    
+    .quote{
+        font-size: 2.5rem;
+    }
+}
